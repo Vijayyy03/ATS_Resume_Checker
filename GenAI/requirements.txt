@@ -1,0 +1,7 @@
+streamlit
+spacy
+fuzzywuzzy
+python-Levenshtein
+openai  # Optional, for GPT API 
+PyPDF2
+python-docx 
